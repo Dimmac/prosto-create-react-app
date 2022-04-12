@@ -2,7 +2,7 @@
   "name": "craversion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dimmac.github.io/prosto-create-react-app",
+  "homepage": "https://Dimmac/github.io/prosto-create-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "pre-deploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
