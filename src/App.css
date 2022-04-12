@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.Coment {
+  color: blueviolet;
+  font-weight: 900;
+}
