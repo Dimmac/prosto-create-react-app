@@ -1,0 +1,46 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "type": "image",
+      "name": "Human Image",
+      "url": "https://www.pexels.com/photo/fashion-love-people-woman-11785784/",
+      "date": 1649790039154
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "name": "Youtube",
+      "url": "https://www.youtube.com/watch?v=odwOkxkmVH8&list=PLiZoB8JBsdzlI0lIfk2zsf3F46FUkNaKC&index=3",
+      "date": 1649846155184
+    },
+    {
+      "id": 3,
+      "type": "image",
+      "name": "Book Image",
+      "url": "https://www.pexels.com/photo/opened-book-on-tree-root-3358707/",
+      "date": 1649846155185
+    },
+    {
+      "id": 4,
+      "type": "video",
+      "name": "Vimeo",
+      "url": "https://vimeo.com/28164488",
+      "date": 1649846155186
+    },
+    {
+      "id": 5,
+      "type": "image",
+      "name": "Weather Image",
+      "url": "https://www.pexels.com/photo/trees-and-grass-field-under-cloudy-sky-during-daytime-186980/",
+      "date": 1649846155187
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Dmytro"
+    }
+  ],
+  "phones": [{}]
+}
